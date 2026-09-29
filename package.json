@@ -1,0 +1,6 @@
+{
+  "name": "json-diff-visualizer",
+  "version": "1.0.0",
+  "description": "Terminal deep JSON structure and value comparison tool.",
+  "license": "MIT"
+}
